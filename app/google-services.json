@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923134755945",
+    "firebase_url": "https://limewit-7ca0f.firebaseio.com",
+    "project_id": "limewit-7ca0f",
+    "storage_bucket": "limewit-7ca0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923134755945:android:2476622fd3399189",
+        "android_client_info": {
+          "package_name": "com.example.bhotika.limewit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923134755945-pm43dc8g0htr9j8jfttsgubvvmlnha0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhotika.limewit",
+            "certificate_hash": "2cefc220b2ef69870fdf03523f7177579382ca3c"
+          }
+        },
+        {
+          "client_id": "923134755945-5n9ijvn4oit5jcs0mhga4oggl0f4s5se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQ5dTzskmdZxXqPogaLQUOhKGyrmuvLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923134755945-5n9ijvn4oit5jcs0mhga4oggl0f4s5se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
